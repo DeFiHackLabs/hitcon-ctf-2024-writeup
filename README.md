@@ -15,14 +15,14 @@ DeFiHackLabs engaged in the HITCON CTF this year and designed 2 Web3 challenges,
 
 # Challenges
 
-## Lustrous:
+## Lustrous 
 By minaminao ([@vinami](https://x.com/vinami))
 
 **Description:**
 
 "In a world inhabited by crystalline lifeforms called The Lustrous, every unique gem must fight for their way of life against the threat of lunarians who would turn them into decorations." – Land of the Lustrous
 
-Writeup:
+Writeup: https://github.com/DeFiHackLabs/hitcon-ctf-2024-writeup/blob/main/writeup/lustrous.md
 
 ## No-Exit Room
 By wiasliaw ([@wiasliaw](https://x.com/wiasliaw))
@@ -32,7 +32,7 @@ By wiasliaw ([@wiasliaw](https://x.com/wiasliaw))
 Alice, Bob, and David are each locked in separate rooms. In each room, they have a unique private input and polynomial. If their private input is leaked, the room will be permanently locked.They can communicate with each other via channels, but every message transmitted through these channels is monitored.
 To escape, they must collaboratively calculate the sum of their private inputs without revealing them. Only by doing so can they unlock the doors and gain their freedom.
 
-Writeup:
+Writeup: https://github.com/DeFiHackLabs/hitcon-ctf-2024-writeup/blob/main/writeup/noexitroom.md
 
 # Supporter
 Special thanks to our suppoter.
